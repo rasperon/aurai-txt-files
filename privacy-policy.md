@@ -65,7 +65,7 @@ Depending on your jurisdiction, you may have the following rights:
 - **Objection:** Opt out of certain data uses, including marketing.
 - **Consent Withdrawal:** Withdraw consent where processing is based on consent.
 
-To exercise your rights, contact us at: **[your-email@example.com]**
+To exercise your rights, contact us at: **[rasperon@proton.me]**
 
 ---
 
